@@ -7,8 +7,11 @@ function setup() {
 
 function draw() {
   noStroke();
-  fill('steelblue');
-  ellipse(0,0,800);
-  fill('deepskyblue');
-  ellipse(450,450,400);
+
+  fill('black');
+  ellipse(225,225,300);
+
+  noStroke();
+  fill('pink');
+  rect(125,125,200,200);
 }
