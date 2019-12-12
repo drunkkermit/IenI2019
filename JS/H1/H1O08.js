@@ -1,5 +1,5 @@
 var variabeleA = 21;
-var variabeleB = 14;
+var variabeleB = 11;
 var uitkomst;
 
 function setup() {
@@ -13,6 +13,7 @@ function setup() {
 }
 
 function draw() {
+
   uitkomst = variabeleA+variabeleB;
   // Schrijf de rekensom op het scherm
   
